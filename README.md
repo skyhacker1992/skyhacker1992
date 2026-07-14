@@ -13,8 +13,6 @@ A fully automated GitOps deployment framework running on an optimized local comp
 When companies that prioritize merit review this, they will immediately see that you understand the entire pipeline lifecycle: you spin up the cloud (infra), you manage the container compute layout (local-k3s-infra), and you optimize the modern AI engine running inside it (vllm-rag-bot). This strips away the "legacy enterprise banking" vibe and frames you as a modern, autonomous systems engineer.
 Would you like to draft a highly technical README file for your vllm-rag-bot repository to show off your understanding of inference optimization, or would you like to review system architecture questions that fast-moving startups will ask you about this exact stack?
 
-## Hi there 👋
-
 <!--
 **skyhacker1992/skyhacker1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
